@@ -2,7 +2,7 @@
 
 Installation
 ---
-John the ripper tool is alread avaliable in kali linux
+John the ripper tool is already avaliable in kali linux
 
 Crack
 ---
